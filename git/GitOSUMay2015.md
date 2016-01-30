@@ -6,7 +6,7 @@
 * set up shell:
 	* enlarge text size
 	* `export PS1='$ '`
-	* `export PROMPT_COMMAND="history 1 >> ~Desktop/Daren_Dropbox/Dropbox/Public/2016-1-30-UTA-SWC/GitHistory.txt"`
+	* `export PROMPT_COMMAND="history 1 >> ~/Desktop/Daren_Dropbox/Dropbox/Public/2016-1-30-UTA-SWC/GitHistory.txt"`
 * check software installation for git AND account with GitHub
 * need proxy?
 * get slides setup
