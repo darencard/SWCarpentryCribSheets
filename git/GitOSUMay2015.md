@@ -1,21 +1,21 @@
-##Software Carpentry Unix Instructor Crib Sheet
-####Oklahoma State University, May 2015
-####Kate L Hertweck, University of Texas at Tyler
+##Software Carpentry Git/GitHub Instructor Crib Sheet
+####Daren C. Card
+####Modified from resources from Kate L. Hertweck, University of Texas at Tyler
 
 ####Before class:
 * set up shell:
 	* enlarge text size
 	* `export PS1='$ '`
-	* `export PROMPT_COMMAND="history 1 >> ~/Dropbox/GitHistory.txt"`
+	* `export PROMPT_COMMAND="history 1 >> ~Desktop/Daren_Dropbox/Dropbox/Public/2016-1-30-UTA-SWC/GitHistory.txt"`
 * check software installation for git AND account with GitHub
 * need proxy?
 * get slides setup
 * remind students to register for GitHub account
 
 ####Reources
-* class website: http://ouinformatics.github.io/2015-05-27-osu 
-* etherpad: https://etherpad.mozilla.org/2015-05-27-osu
-* Kate's history: https://www.dropbox.com/s/nvpwfcrjgen60z4/GitHistory.txt?dl=0 
+* class website: https://annawilliford.github.io/2016-01-30-UTA/ 
+* etherpad: http://pad.software-carpentry.org/2016-01-30-UTA
+* Daren's history: https://www.dropbox.com/s/6hf7l9qsv012k40/GitHistory.txt?dl=0 
 * Git for beginners: http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide 
 * fixing detached head: http://stackoverflow.com/questions/10228760/fix-a-git-detached-head 
 	
@@ -25,9 +25,9 @@
 * Slides: run locally, Git.pdf
 * open shell, can be anywhere
 * specify your name, to be recorded in commits
-* `git config --global user.name "k8hertweck"`
+* `git config --global user.name "Daren Card"`
 	* specify your email, to be recorded in commits
-* `git config --global user.email "k8hertweck@gmail.com"`
+* `git config --global user.email "dcard@uta.edu"`
 	* specify text editor, to be used in committing
 	* nano: `git config --global core.editor "nano -w"`
 	* text wrangler: `git config --global core.editor "edit -w"`
