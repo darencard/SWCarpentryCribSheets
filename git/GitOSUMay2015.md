@@ -13,11 +13,12 @@
 * remind students to register for GitHub account
 
 ####Reources
-* class website: https://annawilliford.github.io/2016-01-30-UTA/ 
+* class website: https://annawilliford.github.io/2016-01-30-UTA
 * etherpad: http://pad.software-carpentry.org/2016-01-30-UTA
 * Daren's history: https://www.dropbox.com/s/6hf7l9qsv012k40/GitHistory.txt?dl=0 
 * Git for beginners: http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide 
 * fixing detached head: http://stackoverflow.com/questions/10228760/fix-a-git-detached-head 
+* GitHub guide for markdown: https://guides.github.com/features/mastering-markdown
 	
 ####SETUP
 **Objectives:** get system set up for proper attribution of your work
